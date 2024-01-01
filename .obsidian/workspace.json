@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e1fd2e1a9173ab05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "519451bf70e4970c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "크롬 확장 프로그램 설계서.md",
+                "file": "번역 사이트 설계서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "크롬 확장 프로그램 설계서.md",
+                "file": "번역 사이트 설계서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "크롬 확장 프로그램 설계서.md",
+                "file": "번역 사이트 설계서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "크롬 확장 프로그램 설계서.md"
+                "file": "번역 사이트 설계서.md"
               }
             }
           }
@@ -148,7 +157,7 @@
   },
   "active": "519451bf70e4970c",
   "lastOpenFiles": [
-    "크롬 확장 프로그램 설계서.md",
-    "Sample.md"
+    "Sample.md",
+    "번역 사이트 설계서.md"
   ]
 }
